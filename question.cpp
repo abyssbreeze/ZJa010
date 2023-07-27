@@ -3,18 +3,8 @@
 
   
   int main(){
-      // cin.sync_with_stdio(0) ;
-      // cin.tie(0) ;
-
-      // map<string,int> a ;
-      // a["I"] = 1 ;
-      // a["V"] = 2 ;
-      // a["X"] = 10 ;
-      // a["L"] = 50 ;
-      // a["C"] = 100 ;
-      // a["D"] = 500 ;
-      // a["M"] = 1000 ;
-      
+      cin.sync_with_stdio(0) ;
+      cin.tie(0) ;
 
    int n;
     cin >> n;
